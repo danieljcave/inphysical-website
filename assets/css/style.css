@@ -4,6 +4,12 @@ body{
     background-color: #17181A;
     font-family: 'Outfit', sans-serif;
     color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-size: 250%;
 }
 
 /*Website Container*/
@@ -16,4 +22,23 @@ body{
     margin-left: auto;
   }
 
+/*Navigation Bar*/
+#nav-logo{
+    float: left;
+    margin-top: 1rem;
+    color: #f5f5f5;
+}
 
+#nav-menu{
+    float: right;
+}
+
+#nav-menu li{
+    display: inline-block;
+    margin: 10px 25px;
+}
+#nav-menu a{
+    color: #f5f5f5;
+    text-decoration: none;
+    font-size: 120%;
+}
