@@ -40,7 +40,7 @@ body{
 }
 
 /*Hero Image*/
-.hero-content{
+#hero-content{
     background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url("/assets/images/hero-image-xl.jpeg");
     background-position: center;
     background-repeat: no-repeat;
@@ -66,7 +66,46 @@ body{
 }
 
 .hero-text h2{
-    font-size: 2rem;
+    font-size: 1.5rem;
     text-shadow: 2px 2px 2px black;
     letter-spacing: .2rem;
+}
+
+/*About us Section*/
+#about-us{
+    max-width: 1140px;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    columns: 2;
+    text-align: center;
+    padding: 1rem;
+}
+/*About Us Icons*/
+#about-us i{
+    font-size: 3rem;
+    margin-top: 1rem;
+}
+/*About Us h3*/
+#about-us h3{
+    font-size: 2.5rem;
+    margin: 1rem;
+    letter-spacing: .1rem;
+}
+/*About Us Section Line Spacing*/
+#about-us hr{
+    width: 75%;
+    border: 2px solid;
+    border-radius: 1rem;
+}
+#about-us p{
+    letter-spacing: .1rem;
+}
+/*About Us Left Colum*/
+#about-us-info{
+    padding: 2.5rem;
+}
+/*What We Offer Right Colum*/
+#what-we-offer{
+    padding: 2.5rem;
 }
