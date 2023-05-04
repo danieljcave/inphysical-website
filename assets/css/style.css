@@ -109,3 +109,36 @@ body{
 #what-we-offer{
     padding: 2.5rem;
 }
+
+/*Which Plan Is Right For You Section*/
+#which-plan{
+    max-width: 1140px;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    padding: 1rem;
+}
+#which-plan-content{
+    width: 75%;
+    margin-right: auto;
+    margin-left: auto;
+}
+#which-plan-content i{
+    font-size: 3rem;
+    margin-top: 1rem;
+}
+
+#which-plan-content h3{
+    font-size: 2.5rem;
+    margin: 1rem;
+    letter-spacing: .1rem;
+}
+#which-plan-content hr{
+    width: 75%;
+    border: 2px solid;
+    border-radius: 1rem;
+}
+#which-plan-content p{
+    letter-spacing: .1rem;
+}
