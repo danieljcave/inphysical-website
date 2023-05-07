@@ -187,3 +187,53 @@ body{
     border: 2px solid;
     border-radius: 1rem;
 }
+/*Footer*/
+#footer-container{
+    max-width: 1140px;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    columns: 3;
+    text-align: center;
+    letter-spacing: .1rem;
+}
+#footer-background{
+    background-color: #f5f5f5;
+    color: #17181A;
+}
+.footer-heading{
+    font-weight: bolder;
+    font-size: 1.5rem;
+    margin: 1rem 0 0 0;
+    padding: 0;
+}
+.connect-icons{
+    margin: 0.5rem 0 1rem 0;
+    padding: 0 0 .5rem 0;
+}
+.connect-icons li{
+    display: inline-block;
+    padding: 0 1rem;
+}
+.connect-icons a{
+    color: #17181A;
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+
+.copywright-text{
+    font-size: 1rem;
+    font-weight: bolder;
+    
+}
+.footer-text{
+    padding: 1rem 0 0 0 !important;
+}
+.copywright-text p{
+    margin: 0;
+    padding: .5rem 0 0 0;
+}
+.subscribe-form h3{
+    padding: 1rem 0 0 0;
+    margin-bottom: .5rem;
+}
