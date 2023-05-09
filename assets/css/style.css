@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300&display=swap');
-
+/*Body CSS For Entire Page*/
 body{
     background-color: #17181A;
     font-family: 'Outfit', sans-serif;
@@ -24,11 +24,9 @@ body{
     margin-top: 1rem;
     color: #f5f5f5;
 }
-
 #nav-menu{
     float: right;
 }
-
 #nav-menu li{
     display: inline-block;
     margin: 10px 25px;
@@ -38,6 +36,7 @@ body{
     text-decoration: none;
     font-size: 120%;
 }
+/* /Navigation Bar*/
 
 /*Hero Image*/
 #hero-content{
@@ -57,20 +56,18 @@ body{
     left: 50%;
     transform: translate(-50%, -50%);
 }
-
 .hero-text h1{
     font-size: 5rem;
     text-shadow: 2px 2px 2px black;
     margin-bottom: 0;
     letter-spacing: .2rem;
 }
-
 .hero-text h2{
     font-size: 1.5rem;
     text-shadow: 2px 2px 2px black;
     letter-spacing: .2rem;
 }
-
+/* /Hero Text */
 /*About us Section*/
 #about-us{
     max-width: 1140px;
@@ -119,29 +116,33 @@ body{
     text-align: center;
     padding: 1rem;
 }
+/* Which Plan Content and Text*/
 #which-plan-content{
     width: 75%;
     margin-right: auto;
     margin-left: auto;
 }
+/* Which Plan Icons*/
 #which-plan-content i{
     font-size: 3rem;
     margin-top: 1rem;
 }
+/* Which Plan Header*/
 #which-plan-content h3{
     font-size: 2.5rem;
     margin: 1rem;
     letter-spacing: .1rem;
 }
+/* Which Plan Line Break*/
 #which-plan-content hr{
     width: 75%;
     border: 2px solid;
     border-radius: 1rem;
 }
+/*Which Plan Text Content*/
 #which-plan-content p{
     letter-spacing: .1rem;
 }
-
 /*Workout Plans Section*/
 #workout-plans{
     max-width: 1140px;
@@ -197,57 +198,66 @@ body{
     text-align: center;
     letter-spacing: .1rem;
 }
+/* Footer Background */
 #footer-background{
     background-color: #f5f5f5;
     color: #17181A;
 }
-.footer-heading{
+/*Footer Header*/
+.connect-with-us-heading{
     font-weight: bolder;
     font-size: 1.5rem;
     margin: 1rem 0 0 0;
     padding: 0;
 }
+/* Connect with us icons*/
 .connect-icons{
     margin: 0.5rem 0 1rem 0;
     padding: 0 0 .5rem 0;
 }
+/*Connect with us list style*/
 .connect-icons li{
     display: inline-block;
     padding: 0 1rem;
 }
+/*Connect with us link style*/
 .connect-icons a{
     color: #17181A;
     font-size: 1.5rem;
     text-decoration: none;
 }
-
+/*Center Copywright text*/
 .copywright-text{
     font-size: 1rem;
     font-weight: bolder;
-    
 }
-.footer-text{
-    padding: 1rem 0 0 0 !important;
+/*Copywright Top P Text Style*/
+.copywright-p-text{
+    padding: 1rem 0 0 0 !important /*!important Tag use to prioritise code over p text style*/;
 }
 .copywright-text p{
     margin: 0;
     padding: .5rem 0 0 0;
 }
+/*Subscribe Form Heading*/
 .subscribe-form h3{
     padding: 1rem 0 0 0;
     margin-bottom: .5rem;
 }
+/* Email Input Box*/
 .email-input{
     width: 11rem;
     background-color: #f5f5f5;
     color: #17181A;
     border-radius: .25rem;
 }
+/*Subscribe Form Submit Button*/
 .submit-button{
     background-color: #f5f5f5;
     color: #17181A;
     border-radius: .25rem;
 }
+/*Subscribe Form Submit Hover style*/
 .submit-button:hover{
     background-color: #17181A;
     color: #f5f5f5;
