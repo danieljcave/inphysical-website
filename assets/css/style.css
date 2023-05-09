@@ -280,4 +280,5 @@ body{
     background-color: #17181A;
     color: #f5f5f5;
     border-radius: .25rem;
+    cursor: pointer;
 }
