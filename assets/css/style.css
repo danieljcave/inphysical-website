@@ -188,6 +188,22 @@ body{
     border: 2px solid;
     border-radius: 1rem;
 }
+/* Workout Plan Button*/
+.click-here-button{
+    width: 7.5rem;
+    height: 2rem;
+    background-color: transparent;
+    color: #f5f5f5;
+    border-radius: .75rem;
+    border: 2px solid #f5f5f5;
+    margin-bottom: 1rem;
+    font-size: 1rem;
+}
+.click-here-button:hover{
+    background-color: #f5f5f5;
+    color: #17181A;
+    cursor: pointer;
+}
 /*Footer*/
 #footer-container{
     max-width: 1140px;
@@ -248,12 +264,14 @@ body{
 .email-input{
     width: 11rem;
     background-color: #f5f5f5;
+    border: 2px solid #17181A;
     color: #17181A;
     border-radius: .25rem;
 }
 /*Subscribe Form Submit Button*/
 .submit-button{
     background-color: #f5f5f5;
+    border: 2px solid #17181A;
     color: #17181A;
     border-radius: .25rem;
 }
