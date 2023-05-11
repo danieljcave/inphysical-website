@@ -41,7 +41,7 @@ body{
 /*Hero Image*/
 #hero-content{
     background-image: linear-gradient(rgba(0, 0, 0, 0.75),rgba(0, 0, 0, 0.5)), url("/assets/images/hero-image-xl.jpeg");
-    background-position: center;
+    background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
     height: 75rem;
@@ -113,14 +113,13 @@ body{
     width: 100%;
     margin-right: auto;
     margin-left: auto;
-    text-align: center;
-    padding: 1rem;
 }
 /* Which Plan Content and Text*/
 #which-plan-content{
     width: 75%;
     margin-right: auto;
     margin-left: auto;
+    text-align: center;
 }
 /* Which Plan Icons*/
 #which-plan-content i{
@@ -143,6 +142,7 @@ body{
 #which-plan-content p{
     letter-spacing: .1rem;
 }
+
 /*Workout Plans Section*/
 #workout-plans{
     max-width: 1140px;
@@ -281,4 +281,50 @@ body{
     color: #f5f5f5;
     border-radius: .25rem;
     cursor: pointer;
+}
+
+/* Media Query*/
+/* Active for Screen sizes less than 576px */
+@media screen and (max-width: 576px) {
+    #nav-menu{
+        float: left;
+        padding: 0;
+    }
+    #nav-menu li{
+        margin: .5rem 1rem;
+    }    
+    #hero-content{
+        height: 50rem;
+    }
+    .hero-text{
+        top: 50%;
+    }
+    .hero-text h1{
+        font-size: 3rem;
+    }
+    .hero-text h2{
+        font-size: 1rem;
+    }
+    #about-us{
+        max-width: 556px;
+        columns: 1;
+        padding: 0;
+    }
+    #which-plan{
+        max-width: 556px;
+    }
+    #workout-plans-layout{
+        columns: 1;
+    }
+    #workout-plans p{
+        padding: 1rem;
+    }
+    #footer-container{
+        max-width: 556px;
+    }
+    .email-input{
+        width: auto;
+        margin-bottom: .5rem;
+    }
+
 }
