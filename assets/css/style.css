@@ -371,13 +371,19 @@ body{
     #workout-plans p{
         padding: 0 5rem 0 5rem;
     }
-
+}
+/* Active for screen sizes 992px wide and bellow */
+@media screen and (max-width:992px)  {
+    #workout-plans-layout h2 {
+        font-size: 2rem;
+    }
+    #workout-plans-layout p{
+        padding: 0 .5rem 0 .5rem;
+    }
 }
 
-
-
 /* Active for screen sizes 1200px wide and */
-@media screen and (max-width: 1200px) and (min-width:992px){
+@media screen and (max-width: 1200px){
     #hero-content{
         height: 50rem;
     }
@@ -387,7 +393,7 @@ body{
 }
 
 /* Active for Screen size 1920px wide and 1080p heigh*/
-@media screen and (max-width: 1920px) and (min-height:1080px){
+@media screen and (max-width: 1920px){
     #hero-content{
         height: 67.5rem;
     }
