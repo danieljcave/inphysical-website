@@ -40,7 +40,7 @@ body{
 
 /*Hero Image*/
 #hero-content{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.75),rgba(0, 0, 0, 0.5)), url("/assets/images/hero-image-xl.jpeg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75),rgba(0, 0, 0, 0.5)), url("/assets/images/hero-image-large.jpeg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
