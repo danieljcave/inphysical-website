@@ -26,6 +26,7 @@ body{
 }
 #nav-menu{
     float: right;
+    padding: 0;
 }
 #nav-menu li{
     display: inline-block;
@@ -286,14 +287,7 @@ body{
 
 /* Media Query*/
 /* Active for Screen sizes less than 576px */
-@media screen and (max-width: 576px) {
-    #nav-menu{
-        float: left;
-        padding: 0;
-    }
-    #nav-menu li{
-        margin: .5rem 1rem;
-    }    
+@media screen and (max-width: 576px) {  
     #hero-content{
         height: 50rem;
     }
@@ -334,16 +328,21 @@ body{
 
 }
 
-/* Active for Screen sizes less than 768px */
-@media screen and (max-width: 768px) {
+/* Add Screen Size for Navigation Menu Responsive, 610px*/
+@media screen and (max-width: 610px) {
     #nav-menu{
+        clear: left;
         float: left;
-        padding: 0;
-        margin-left: 1rem;
+        margin: 0;
     }
     #nav-menu li{
-        margin: .5rem .5rem;
+        margin:0 1rem 0 0;
     }
+    
+}
+
+/* Active for Screen sizes less than 768px */
+@media screen and (max-width: 768px) {
     #hero-content{
         height: 50rem;
     }
