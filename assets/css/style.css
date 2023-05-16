@@ -108,6 +108,9 @@ body{
 #what-we-offer{
     padding: 2.5rem;
 }
+#what-we-offer a{
+    color: #f5f5f5;
+}
 
 /*Which Plan Is Right For You Section*/
 #which-plan{
