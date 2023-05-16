@@ -343,6 +343,12 @@ body{
     }
     
 }
+
+@media screen and (max-width:350px) {
+    #nav-menu li{
+        margin: 0;
+    }
+}
 /* Active for Screen sizes less than 768px */
 @media screen and (max-width: 768px) {
     #hero-content{
