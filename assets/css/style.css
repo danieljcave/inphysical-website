@@ -374,6 +374,17 @@ body{
     #workout-plans p{
         padding: 0 5rem 0 5rem;
     }
+    #footer-container{
+        columns: 1;
+    }
+    .subscribe-form{
+        margin-bottom: 1rem;
+    }
+
+
+
+
+
 }
 /* Active for screen sizes 992px wide and bellow */
 @media screen and (max-width:992px)  {
