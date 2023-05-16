@@ -331,7 +331,6 @@ body{
     }
 
 }
-
 /* Add Screen Size for Navigation Menu Responsive, 610px*/
 @media screen and (max-width: 610px) {
     #nav-menu{
@@ -344,7 +343,6 @@ body{
     }
     
 }
-
 /* Active for Screen sizes less than 768px */
 @media screen and (max-width: 768px) {
     #hero-content{
@@ -380,11 +378,6 @@ body{
     .subscribe-form{
         margin-bottom: 1rem;
     }
-
-
-
-
-
 }
 /* Active for screen sizes 992px wide and bellow */
 @media screen and (max-width:992px)  {
@@ -395,7 +388,6 @@ body{
         padding: 0 .5rem 0 .5rem;
     }
 }
-
 /* Active for screen sizes 1200px wide */
 @media screen and (max-width: 1200px){
     #hero-content{
@@ -405,7 +397,6 @@ body{
         top: 50%;
     }
 }
-
 /* Active for Screen size 1920px wide and 1080p heigh*/
 @media screen and (max-width: 1920px){
     #hero-content{
