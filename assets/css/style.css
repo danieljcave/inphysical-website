@@ -343,7 +343,7 @@ body{
     }
     
 }
-
+/* Add media screen for 350px for extra small screen sizes*/
 @media screen and (max-width:350px) {
     #nav-menu li{
         margin: 0;
