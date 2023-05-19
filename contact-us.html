@@ -36,7 +36,33 @@
                     <p>If you have any questions or would like to get in contact with us. Please fill out the form bellow.</p>
                 </div>
                 <form id="contact-us-form" action="contact-response.html">
-
+                    <label for="fname">First Name:</label>
+                    <input type="text" name="fname" id="fname" placeholder="Enter First Name Here" class="contact-form-input" required>
+                    <label for="lname">Last Name:</label>
+                    <input type="text" name="lname" id="lname" placeholder="Enter Last Name Here" class="contact-form-input" required>
+                    <label for="email">Email Address:</label>
+                    <input type="email" name="email" id="email" placeholder="Enter Email Address Here" class="contact-form-input" required>
+                    <label for="phonenumber">First Name:</label>
+                    <input type="number" name="phonenumber" id="phonenumber" placeholder="Enter Phone Number Here" class="contact-form-input" required>
+                    <fieldset>
+                        <legend>What is your exercise experiance?</legend>
+                        <label for="beginner">Beginner</label>
+                        <input type="radio" name="fitnessexperiance" id="beginner" value="beginner" required>
+                        <label for="intermediate">Intermediate</label>
+                        <input type="radio" name="fitnessexperiance" id="intermediate" value="intermediate">
+                        <label for="experianced">Experianced</label>
+                        <input type="radio" name="fitnessexperiance" id="experianced" value="experianced">
+                    </fieldset>
+                    <fieldset>
+                        <legend>Which Plan have you chosen or planning to?</legend>
+                        <label for="push-pull-legs">Push-Pull-Legs</label>
+                        <input type="radio" name="fitnessplan" id="push-pull-legs" value="push-pull-legs" required>
+                        <label for="full-body">Full Body</label>
+                        <input type="radio" name="fitnessplan" id="full-body" value="full-body">
+                        <label for="upper-lower">Upper-Lower</label>
+                        <input type="radio" name="fitnessplan" id="upper-lower" value="upper-lower">
+                    </fieldset>
+                    
                 </form>
             </section>
             </div>
