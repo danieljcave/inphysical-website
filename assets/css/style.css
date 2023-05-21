@@ -45,7 +45,7 @@ body{
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 50rem;
+    height: 60rem;
     width: 100%;
 }
 
@@ -291,7 +291,7 @@ body{
 /*Contact us page*/
 .question-form{
     position: absolute;
-    width: 50%;
+    width: 60%;
     top: 55%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -386,6 +386,9 @@ legend{
         width: auto;
         margin-bottom: .5rem;
     }
+    .question-form{
+        width: 75%;
+    }
 
 }
 /* Add Screen Size for Navigation Menu Responsive, 610px*/
@@ -405,11 +408,20 @@ legend{
     #nav-menu li{
         margin: 0;
     }
+    .question-form{
+        width: 90%;
+    }
+    .form h2{
+        font-size: 150%;
+    }
+    .form p{
+        font-size: 75%;
+    }
 }
 /* Active for Screen sizes less than 768px */
 @media screen and (max-width: 768px) {
     #hero-content{
-        height: 50rem;
+        height: 60rem;
     }
     .hero-text{
         width: 75%;
