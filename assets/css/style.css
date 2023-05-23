@@ -361,7 +361,15 @@ legend{
     font-size: 200%;
     letter-spacing: .1rem;
     text-align: center;
+    margin: 0 0 1rem 0;
 }
+.workout-plan-background{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75),rgba(0, 0, 0, 0.5)), url("../images/hero-image-large.jpeg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 /* Media Query*/
 /* Active for Screen sizes less than 576px */
 @media screen and (max-width: 576px) {  
