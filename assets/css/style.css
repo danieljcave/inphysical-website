@@ -457,6 +457,9 @@ table th, table td{
     .question-form{
         width: 75%;
     }
+    #workout-plan-container{
+        width: 75%;
+    }
 
 }
 /* Add Screen Size for Navigation Menu Responsive, 610px*/
@@ -484,6 +487,13 @@ table th, table td{
     }
     .form p{
         font-size: 75%;
+    }
+    #workout-plan-container{
+        width: 90%;
+    }
+    #workout-plan-container h2{
+        font-size: 150%;
+        margin: 0 0 1rem 0;
     }
 }
 /* Active for Screen sizes less than 768px */
