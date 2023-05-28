@@ -16,7 +16,6 @@ body{
     padding-left: 15px;
     margin-right: auto;
     margin-left: auto;
-    height: 5rem;
   }
 
 /*Navigation Bar*/
@@ -353,6 +352,7 @@ legend{
     margin-right: auto;
     margin-left: auto;
     margin-bottom: 1rem;
+    padding-top: 5rem;
 }
 #workout-plan-container h2{
     font-size: 200%;
@@ -472,7 +472,9 @@ table th, table td{
     #nav-menu li{
         margin:0 1rem 0 0;
     }
-    
+    #workout-plan-container{
+        padding-top: 7.5rem;
+    }
 }
 /* Add media screen for 350px for extra small screen sizes*/
 @media screen and (max-width:350px) {
