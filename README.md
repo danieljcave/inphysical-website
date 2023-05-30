@@ -82,8 +82,8 @@ The primary goal of the website is to provide free workout plans that are tried 
     - Prettier Formater was used in vscode to beautify and format the code for best practices.
 
 ## **Testing**
-The W3C Markup Validator and W3C CSS Validator Services were use to test each page to make sure there were no syntax errors in the website.
-- ### W3C Markup Validator
+The W3C Markup Validator and W3C CSS Validator Services were used to test each page to make sure there were no syntax errors in the website.
+### W3C Markup Validator
 <details><summary>Home Page HTML Validation</summary>
 
 ![Homepage HTML Test](/assets/readME/index-test.png)
@@ -108,3 +108,29 @@ The W3C Markup Validator and W3C CSS Validator Services were use to test each pa
 
 ![Contact Response HTML Test](/assets/readME/response-test.png)
 </details>
+<br>
+
+### W3C CSS Validator
+<details><summary>Style Sheet CSS Validation</summary>
+
+![Style Sheet CSS Test](/assets/readME/response-test.png)
+</details>
+<br>
+
+### Lighthouse Testing
+<details><summary>Lighthouse Testing</summary>
+
+![Lighthouse Testing](/assets/readME/lighthouse-test.png)
+</details>
+<br>
+
+### Browser Testing
+The website responsiveness was tested in the browsers bellow.
+- Google Chrome
+- Safari
+- Brave
+
+All Testing was succesfull and no browser compatibility issues.
+
+## Bugs
+
