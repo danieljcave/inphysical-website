@@ -108,21 +108,18 @@ The W3C Markup Validator and W3C CSS Validator Services were used to test each p
 
 ![Contact Response HTML Test](/assets/readME/response-test.png)
 </details>
-<br>
 
 ### W3C CSS Validator
 <details><summary>Style Sheet CSS Validation</summary>
 
 ![Style Sheet CSS Test](/assets/readME/response-test.png)
 </details>
-<br>
 
 ### Lighthouse Testing
 <details><summary>Lighthouse Testing</summary>
 
 ![Lighthouse Testing](/assets/readME/lighthouse-test.png)
 </details>
-<br>
 
 ## Further Testing 
 
