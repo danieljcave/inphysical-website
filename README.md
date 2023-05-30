@@ -12,6 +12,36 @@ Live version of the site avalible - <a href="https://danieljcave.github.io/inphy
 ![InPhysical Website Responsive Design](assets/readME/website-responsivness.png)
 
 ## Table Of Contents
+* [**User Experience**](#user-experience)
+    * [**Target Audience**](#target-audience)
+    * [**Website Goals**](#website-goals)
+    * [**User Stories**](#user-stories)
+        * [**New User Visitor Goals**](#new-user-visitor-goals)
+        * [**Returning Visitor Goals**](#returning-visitor-goals)
+* [**Design**](#design)
+    * [**Color Scheme**](#color-scheme)
+    * [**Imagery**](#imagery)
+    * [**Typography**](#typography)
+* [**Website Features**](#website-features)
+* [**Technologies Used**](#technologies-used)
+    * [**Programming Languages**](#programming-languages)
+    * [**Programs & Libraries Used**](#programs--libraries-used)
+* [**Testing**](#testing)
+    * [**W3C Markup Validator**](#w3c-markup-validator)
+    * [**W3C CSS Validator**](#w3c-css-validator)
+    * [**Lighthouse Testing**](#lighthouse-testing)
+    * [**Browser Testing**](#browser-testing)
+* [**Bugs**](#bugs)
+* [**Deployment**](#deployment)
+    * [**Github Pages**](#github-pages)
+    * [**Making a Local Clone**](#making-a-local-clone)
+    * [**Forking the Repository**](#forking-the-repository)
+* [**Credits**](#credits)
+    * [**Website Content**](#website-content)
+    * [**Media**](#media)
+    * [**Special Acknowledgements**](#special-acknowledgements)
+
+
 
 
 ## **User Experience**
@@ -33,11 +63,11 @@ The primary goal of the website is to provide free workout plans that are tried 
     3. To have social media links to follow or use to reach out to others.
 
 - ## Design
-    - Color Scheme
+    - ### Color Scheme
         - In the website design I had choose to use 2 colors. First being #f5f5f5 (Off-White) and 17181A (Dark Grey). When first thinking of how the website should look, the primary goal was a clean and simplistic-looking site. Users can know exactly what the website is about at first glance and easy to navigate. The website also used a gradient colour over the main hero image. The gradient adds a black gradient with 0.75 or 75% transparency on the image. This was used to darken the image to allow text to be viewed. 
-    - Imagery
+    - ### Imagery
         - The website consists of 4 different images that are used in the website. Firstly and the main picture is a man doing a plank exercise in a large open room. This and all the images were found on [Pexals](https://www.pexels.com/) which is a free image library. The other images used were for the workout plan preview links, each where selected for the design of each plan and the majority of muscle groups that would be used. To add a visual representation to the user to entice them into the plan.
-    - Typography
+    - ### Typography
         - When selecting the font to choose, the same goals were alongside the colour scheme. To find a clean and simplistic font that gives the website the look of professional and friendly. The font that was chosen was "Outfit" a free available font found on [Google Fonts](https://fonts.google.com/)
 
 - ## Wireframes
