@@ -564,7 +564,7 @@ table th, table td{
         margin-bottom: 1rem;
     }
 }
-/* Active for screen sizes 992px wide and bellow */
+/* Active for screen sizes 992px wide and above */
 @media screen and (max-width:992px)  {
     #workout-plans-layout h2 {
         font-size: 2rem;
