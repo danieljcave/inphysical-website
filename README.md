@@ -164,3 +164,20 @@ Forking a repository will make a copy of that repository and edit without making
 3. This will then allow you to make a copy of the repository in your GitHub account.
 
 ## Credits
+### Website Content
+- All Text content excluding workout plans was written by Author and Developer Daniel Can.
+- Each Workout plan was created, designed and tested by Level 3 Qualified Personal Trainer, Ellen Withington.
+- Information regarding each plan was consulted with our Qualified Personal Trainer, Ellen Withington. Along with research for each workout plan and information written.
+    - [Push Pull Legs Research](https://www.aston.ac.uk/sport/news/tips/fitness-exercise/push-pull-legs#:~:text=In%20the%20%E2%80%9Cpush%E2%80%9D%20workout%20you,%2C%20hamstrings%2C%20calves%20and%20abdominals.) from Aston University.
+    - [Full Body](https://www.muscleandstrength.com/workouts/full-body) information found from Muscle & Strength
+    - [Upper Lower](https://bmcsportsscimedrehabil.biomedcentral.com/articles/10.1186/s13102-022-00481-7) research conducted by BMC Sports Science
+
+## Media
+- [Pexals](https://www.pexels.com/) - Hero image and workout plan preview plan images sourced and obtained from Pexals.
+- All Images including Hero image and plan preview images were edited down to size specific for the website by author and developer, Daniel Cave.
+    - Hero image was edited down to 1920 Pixels by 1080 Pixels (HD) using [Adobe Free Online Editor](https://www.adobe.com/express/feature/image/editor)
+    - All plan preview images were scaled down to 500 pixels by 500 pixels using [Adobe Free Online Editor](https://www.adobe.com/express/feature/image/editor)
+
+## Special Acknowledgements
+- My Mentor **Spencer Barriball** for overall feedback and guidance along my project journey to improve the overall website and assist me as a developer.
+-  Level 3 Qualified personal trainer **Ellen Withington** for creating each workout plan and testing each plan herself. Along with advice and guidance on workout plan information and context.
