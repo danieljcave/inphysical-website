@@ -41,9 +41,6 @@ Live version of the site avalible - <a href="https://danieljcave.github.io/inphy
     * [**Media**](#media)
     * [**Special Acknowledgements**](#special-acknowledgements)
 
-
-
-
 ## **User Experience**
 ### **Target Audience**
 The target audience of the website is to have all fitness users of all experiences. From new beginners to experienced fitness users. The site is to help users to find and use free and tested fitness plans all created by a qualified trainer. For all ages and body types. Finally, users that have created their plans or are looking for inspiration or exercises to help their plans and be able to use the contact forms to ask questions.
