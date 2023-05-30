@@ -68,3 +68,20 @@ Each of the Workout plan pages starts with a title heading of each plan. The inf
 
 ![Workout Plans Image](/assets/readME/features/plans.png)
 </details>
+
+## Workout Plan Pages
+Each workout plan follows the same format and structure for all pages. This is to allow the user to view each page and not have any confusion about the information or location of the details of the plan.
+
+### Information
+- Each page starts with the same structure. The title of the page is followed by information and a descript of what each plan contains and the best way to apply it to the user. Bellow that is a weekly planning that shows the days of the week and which days are best to train on to allow for enough rest.
+<details><summary>Workout Information Image</summary>
+
+![Workout Information Image](/assets/readME/features/workout-info.png)
+</details>
+
+### Table Plan
+- The plans are created in a table. The table is split into Exercises, Sets, Reps and Rest Time. The exercise row is the header and is given a 40% width. This is for the name of the exercise bellow. Then remaining 3 columns are given a 20% width. This is to set the tables to be responsive and shrink as the device size decreases.
+<details><summary>Workout Table Image</summary>
+
+![Workout Table Image](/assets/readME/features/workout-info.png)
+</details>
