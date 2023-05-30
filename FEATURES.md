@@ -85,3 +85,20 @@ Each workout plan follows the same format and structure for all pages. This is t
 
 ![Workout Table Image](/assets/readME/features/workout-info.png)
 </details>
+
+## Contact Us
+- The Contact Us Page contains the navigation bar, a contact form and the footer.
+    - The desktop view shows the contact form at the centre of the page. The form is designed to fit 60% of the page. The form contains information requests; "First Name", "Last Name", "Email Address" and "Contact Number". The form then uses radio inputs to have the user select their exercise experience and which plan they have chosen or plan to choose. Last is a large text box for the user to enter any questions that they have and then submit them to our team. Each field is required to be filled out before submission.
+    - In tablet view, the contact form is set to have a width of 75% of the screen width. This is to allow the user to still see the form and have it look as if it was on a desktop.
+    - The mobile view form is set as a width of 90%. The view width has as much screen usage while still having a small border around the form so does not take the entirety of the screen.
+<details><summary>Contact Form Image</summary>
+
+![Contact Response Image](/assets/readME/features/contact-form.png)
+</details>
+
+### Contact Response Page
+- The contact response page is shown to the user once they have submitted a contact request form. The text thanks the user for submitting a question and then provides a way for the user to come page to the page and continue to use the website. 
+<details><summary>Contact Response Image</summary>
+
+![Contact Response Image](/assets/readME/features/response.png)
+</details>
