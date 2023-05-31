@@ -75,7 +75,7 @@ The primary goal of the website is to provide free workout plans that are tried 
     - Contact us Page Wireframe - [View](/assets/readME/contact-form-frame.png)
 
 ## **Website Features**
-**All Features have been seperated to its own feature read me file. To access [Click here](FEATURES.md)**
+**All Features have been separated into their own feature read-me file. To access [Click here](FEATURES.md)**
 
 ## **Technologies Used**
 
@@ -85,9 +85,9 @@ The primary goal of the website is to provide free workout plans that are tried 
 
 ### Programs & Libraries Used
 1. [Visual Studio Code (VSCode)](https://code.visualstudio.com/)
-    - Primary programing editor for creating and editing the website.
+    - Primary programming editor for creating and editing the website.
 2. [Gitpod](https://www.gitpod.io/)
-    - Gitpod is a IDE used firstly to create the page but then moved to VSCode.
+    - Gitpod is an IDE used firstly to create the page but then moved to VSCode.
 3. [Adobe Free Online Editor](https://www.adobe.com/express/feature/image/editor)
     - Adobe free online editor was used to edit photos used on the website.
 4. [Pexals](https://www.pexels.com/)
@@ -101,12 +101,12 @@ The primary goal of the website is to provide free workout plans that are tried 
 8. [Font Awesome](https://fontawesome.com/)
     - Font Awesome provides free icons that were used on the website pages.
 9. [Git](https://git-scm.com/)
-    - Git is used to commit changes to website code and then push them to Github repository.
+    - Git is used to commit changes to website code and then push them to the Github repository.
 10. [Github](https://github.com/)
     - Github was used to store the website code when created on VSCode and pushed with Git.
     - The website is also hosted via GitHub pages.
 11. [VSCode Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-    - Prettier Formater was used in vscode to beautify and format the code for best practices.
+    - Prettier Formater was used in vs code to beautify and format the code for best practices.
 
 ## **Testing**
 The W3C Markup Validator and W3C CSS Validator Services were used to test each page to make sure there were no syntax errors in the website.
@@ -151,7 +151,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to test each p
 ## Further Testing 
 
 ### Browser Testing
-The website responsiveness was tested in the browsers bellow.
+The website responsiveness was tested in the browsers below.
 - Google Chrome
 - Safari
 - Brave
