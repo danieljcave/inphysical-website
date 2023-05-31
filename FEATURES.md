@@ -3,7 +3,7 @@
 ## **Milestone Project 1 for Code Institute Full Stack Software Development.**
 ### **Author - Daniel Cave**
 
-#### FEATURES.md is connected to **[READ.md](/README.md)** but features have been seperated to keep the Readme file clean and a viewable length for users.
+#### FEATURES.md is connected to **[READ.md](/README.md)** but features have been separated to keep the Readme file clean and a viewable length for users.
 
 ## Features
 
@@ -54,7 +54,7 @@ Each of the Workout plan pages starts with a title heading of each plan. The inf
 ### **About Us**
 - The homepage is split into 2 sections, About Us and Plans. This contains information about InPhysical and what the website offers. Then a brief description of which plans are available and to choose from.
     - In the desktop view. The section is split into 2 columns and the "Which plan is right for you" is in a section below the columns which is not affected. The section has a width container of 1140px and 2 columns inside of this.
-    - The tablet and mobile view will condense to 1 single column and have all the context stack on top of each other. With the screen size will then add a 10% Padding to either size of the text and shrink it according to the screen size.
+    - The tablet and mobile view will condense to 1 single column and have all the context stack on top of each other. With the screen size will then add a 10% Padding to either side of the text and shrink it according to the screen size.
 <details><summary>About Us Image</summary>
 
 ![About Us Image](/assets/readME/features/about-us.png)
@@ -73,14 +73,14 @@ Each of the Workout plan pages starts with a title heading of each plan. The inf
 Each workout plan follows the same format and structure for all pages. This is to allow the user to view each page and not have any confusion about the information or location of the details of the plan.
 
 ### Information
-- Each page starts with the same structure. The title of the page is followed by information and a descript of what each plan contains and the best way to apply it to the user. Bellow that is a weekly planning that shows the days of the week and which days are best to train on to allow for enough rest.
+- Each page starts with the same structure. The title of the page is followed by information and a descript of what each plan contains and the best way to apply it to the user. Bellow that is a weekly plan that shows the days of the week and which days are best to train on to allow for enough rest.
 <details><summary>Workout Information Image</summary>
 
 ![Workout Information Image](/assets/readME/features/workout-info.png)
 </details>
 
 ### Table Plan
-- The plans are created in a table. The table is split into Exercises, Sets, Reps and Rest Time. The exercise row is the header and is given a 40% width. This is for the name of the exercise bellow. Then remaining 3 columns are given a 20% width. This is to set the tables to be responsive and shrink as the device size decreases.
+- The plans are created in a table. The table is split into Exercises, Sets, Reps and Rest Time. The exercise row is the header and is given a 40% width. This is for the name of the exercise below. Then remaining 3 columns are given a 20% width. This is to set the tables to be responsive and shrink as the device size decreases.
 <details><summary>Workout Table Image</summary>
 
 ![Workout Table Image](/assets/readME/features/workout-info.png)

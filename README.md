@@ -75,7 +75,7 @@ The primary goal of the website is to provide free workout plans that are tried 
     - Contact us Page Wireframe - [View](/assets/readME/contact-form-frame.png)
 
 ## **Website Features**
-**All Features have been separated into their own feature read-me file. To access [Click here](FEATURES.md)**
+**All Features have been separated into their feature read-me file. To access [Click here](FEATURES.md)**
 
 ## **Technologies Used**
 

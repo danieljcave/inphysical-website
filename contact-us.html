@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <link rel="stylesheet" href="assets/css/style.css" type="text/css">
+    <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
 
     <title>InPhysical Workout Plans</title>
   </head>
@@ -28,88 +28,183 @@
       </div>
     </header>
     <main>
-        <div id="hero-content">
-            <!-- Contact Us Form-->
-            <section class="question-form">
-                <div class="form">
-                    <h2>Contact Us!</h2>
-                    <p>If you have any questions or would like to get in contact with us. Please fill out the form bellow.</p>
-                <form id="contact-us-form" action="contact-response.html">
-                    <label for="fname">First Name:</label>
-                    <input type="text" name="fname" id="fname" placeholder="Enter First Name Here" class="contact-form-input" required>
-                    <br>
-                    <label for="lname">Last Name:</label>
-                    <input type="text" name="lname" id="lname" placeholder="Enter Last Name Here" class="contact-form-input" required>
-                    <br>
-                    <label for="email-address">Email Address:</label>
-                    <input type="email" name="email" id="email-address" placeholder="Enter Email Address Here" class="contact-form-input" required>
-                    <br>
-                    <label for="phonenumber">Phone Number:</label>
-                    <input type="number" name="phonenumber" id="phonenumber" placeholder="Enter Phone Number Here" class="contact-form-input" required>
-                    <br>
-                    <fieldset>
-                        <legend>What is your exercise experience?</legend>
-                        <label for="beginner">Beginner</label>
-                        <input type="radio" name="fitnessexperience" id="beginner" value="beginner" required>
-                        <label for="intermediate">Intermediate</label>
-                        <input type="radio" name="fitnessexperience" id="intermediate" value="intermediate">
-                        <label for="experienced">Experienced</label>
-                        <input type="radio" name="fitnessexperience" id="experienced" value="experienced">
-                    </fieldset>
-                    <br>
-                    <fieldset>
-                        <legend>Which Plan have you chosen or planning to?</legend>
-                        <label for="push-pull-legs">Push-Pull-Legs</label>
-                        <input type="radio" name="fitnessplan" id="push-pull-legs" value="push-pull-legs" required>
-                        <label for="full-body">Full Body</label>
-                        <input type="radio" name="fitnessplan" id="full-body" value="full-body">
-                        <label for="upper-lower">Upper-Lower</label>
-                        <input type="radio" name="fitnessplan" id="upper-lower" value="upper-lower">
-                        <label for="none">None</label>
-                        <input type="radio" name="fitnessplan" id="none" value="none">
-                    </fieldset>
-                    <br>
-                    <label for="input-text"></label>
-                    <textarea id="input-text" name="input-text" rows="5" cols="50" placeholder="Enter your comments or questions here..." class="form-text-container" required></textarea>
-                    <br>
-                    <input type="submit" name="submit" id="submit" class="form-submit">
-                </form>
-                </div>
-            </section>
+      <div id="hero-content">
+        <!-- Contact Us Form-->
+        <section class="question-form">
+          <div class="form">
+            <h2>Contact Us!</h2>
+            <p>
+              If you have any questions or would like to get in contact with us.
+              Please fill out the form below.
+            </p>
+            <form id="contact-us-form" action="contact-response.html">
+              <label for="fname">First Name:</label>
+              <input
+                type="text"
+                name="fname"
+                id="fname"
+                placeholder="Enter First Name Here"
+                class="contact-form-input"
+                required
+              />
+              <br />
+              <label for="lname">Last Name:</label>
+              <input
+                type="text"
+                name="lname"
+                id="lname"
+                placeholder="Enter Last Name Here"
+                class="contact-form-input"
+                required
+              />
+              <br />
+              <label for="email-address">Email Address:</label>
+              <input
+                type="email"
+                name="email"
+                id="email-address"
+                placeholder="Enter Email Address Here"
+                class="contact-form-input"
+                required
+              />
+              <br />
+              <label for="phonenumber">Phone Number:</label>
+              <input
+                type="number"
+                name="phonenumber"
+                id="phonenumber"
+                placeholder="Enter Phone Number Here"
+                class="contact-form-input"
+                required
+              />
+              <br />
+              <fieldset>
+                <legend>What is your exercise experience?</legend>
+                <label for="beginner">Beginner</label>
+                <input
+                  type="radio"
+                  name="fitnessexperience"
+                  id="beginner"
+                  value="beginner"
+                  required
+                />
+                <label for="intermediate">Intermediate</label>
+                <input
+                  type="radio"
+                  name="fitnessexperience"
+                  id="intermediate"
+                  value="intermediate"
+                />
+                <label for="experienced">Experienced</label>
+                <input
+                  type="radio"
+                  name="fitnessexperience"
+                  id="experienced"
+                  value="experienced"
+                />
+              </fieldset>
+              <br />
+              <fieldset>
+                <legend>Which Plan have you chosen or planning to?</legend>
+                <label for="push-pull-legs">Push-Pull-Legs</label>
+                <input
+                  type="radio"
+                  name="fitnessplan"
+                  id="push-pull-legs"
+                  value="push-pull-legs"
+                  required
+                />
+                <label for="full-body">Full Body</label>
+                <input
+                  type="radio"
+                  name="fitnessplan"
+                  id="full-body"
+                  value="full-body"
+                />
+                <label for="upper-lower">Upper-Lower</label>
+                <input
+                  type="radio"
+                  name="fitnessplan"
+                  id="upper-lower"
+                  value="upper-lower"
+                />
+                <label for="none">None</label>
+                <input type="radio" name="fitnessplan" id="none" value="none" />
+              </fieldset>
+              <br />
+              <label for="input-text"></label>
+              <textarea
+                id="input-text"
+                name="input-text"
+                rows="5"
+                cols="50"
+                placeholder="Enter your comments or questions here..."
+                class="form-text-container"
+                required
+              ></textarea>
+              <br />
+              <input
+                type="submit"
+                name="submit"
+                id="submit"
+                class="form-submit"
+              />
+            </form>
           </div>
-        <!-- Footer-->
+        </section>
+      </div>
+      <!-- Footer-->
       <section id="footer-background">
         <!-- Footer Container -->
-      <footer id="footer-container">
-        <!-- Footer Connect With Us-->
+        <footer id="footer-container">
+          <!-- Footer Connect With Us-->
           <h2 class="connect-with-us-heading">Connect With Us</h2>
           <!-- Footer Social Media Icons-->
           <ul class="connect-icons">
             <li>
-              <a href="https://www.facebook.com" target="_blank"><i class="fa-brands fa-facebook"></i></a>
+              <a href="https://www.facebook.com" target="_blank"
+                ><i class="fa-brands fa-facebook"></i
+              ></a>
             </li>
             <li>
-              <a href="https://www.instagram.com/" target="_blank"><i class="fa-brands fa-instagram" ></i></a>
+              <a href="https://www.instagram.com/" target="_blank"
+                ><i class="fa-brands fa-instagram"></i
+              ></a>
             </li>
             <li>
-              <a href="https://twitter.com/" target="_blank"><i class="fa-brands fa-twitter"></i></a>
+              <a href="https://twitter.com/" target="_blank"
+                ><i class="fa-brands fa-twitter"></i
+              ></a>
             </li>
           </ul>
-            <!-- Center Copywright Text for website-->
+          <!-- Center Copywright Text for website-->
           <div class="copywright-text">
-            <p class="copywright-p-text">© 2023 InPhysical. All Rights Reserved.</p>
+            <p class="copywright-p-text">
+              © 2023 InPhysical. All Rights Reserved.
+            </p>
             <p>Created by Daniel Cave</p>
           </div>
           <!-- Footer Subscribe form-->
           <div class="subscribe-form">
             <h3>Subscribe for new updates</h3>
-            <form class="updates-form" action="contact-response.html" method="post">
-                <label for="email"></label>
-                <input class="email-input" type="email" id="email" name="user_email" placeholder="Enter Email:" required>
-                <input class="submit-button" type="submit" value="Submit">
+            <form
+              class="updates-form"
+              action="contact-response.html"
+              method="post"
+            >
+              <label for="email"></label>
+              <input
+                class="email-input"
+                type="email"
+                id="email"
+                name="user_email"
+                placeholder="Enter Email:"
+                required
+              />
+              <input class="submit-button" type="submit" value="Submit" />
             </form>
           </div>
-      </footer>
+        </footer>
       </section>
       <!-- /Footer -->
     </main>
