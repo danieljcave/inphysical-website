@@ -68,11 +68,11 @@ The primary goal of the website is to provide free workout plans that are tried 
         - When selecting the font to choose, the same goals were alongside the colour scheme. To find a clean and simplistic font that gives the website the look of professional and friendly. The font that was chosen was "Outfit" a free available font found on [Google Fonts](https://fonts.google.com/)
 
 - ## Wireframes
-    - Home Page Wireframe - [View](link here)
+    - Home Page Wireframe - [View](/assets/readME/website-plan-frame.png)
 
-    - Workout Plan Page Wireframe - [View](link here)
+    - Workout Plan Page Wireframe - [View](/assets/readME/workout-plan-frame.png)
     
-    - Contact us Page Wireframe - [View](Link here)
+    - Contact us Page Wireframe - [View](/assets/readME/contact-form-frame.png)
 
 ## **Website Features**
 **All Features have been seperated to its own feature read me file. To access [Click here](FEATURES.md)**
